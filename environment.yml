@@ -1,5 +1,6 @@
 dependencies:
 - graphviz
+- ipywidgets
 - pip:
     - dataclasses
     - commonmark
@@ -14,4 +15,5 @@ dependencies:
     - toolz
     - trio
     - git+https://github.com/nteract/vdom@master
+    - git+https://github.com/deathbeds/pidgin@refactor
     # - vdom
