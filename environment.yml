@@ -1,0 +1,17 @@
+dependencies:
+- graphviz
+- pip:
+    - dataclasses
+    - commonmark
+    - pyyaml
+    - notebook
+    - ipython
+    - nbconvert
+    - hypothesis
+    - graphviz
+    - importnb
+    - tox
+    - toolz
+    - trio
+    - git+https://github.com/nteract/vdom@master
+    # - vdom
