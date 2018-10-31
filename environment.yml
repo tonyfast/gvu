@@ -1,6 +1,7 @@
 dependencies:
 - graphviz
 - ipywidgets
+- pandas
 - pip:
     - dataclasses
     - commonmark
