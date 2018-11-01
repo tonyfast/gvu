@@ -22,6 +22,7 @@ Notebook interfaces compose literate documents that provide the ability to share
 # Today we are going to talk about:
 
 * I'm going to fanboy out about Project Jupyter.
+* Research blogging and the daily use of modern notebooks.
 * Adapting to open source software.
 * Computational essays for people and computers.
 * Sharing notebooks.
@@ -31,6 +32,7 @@ Notebook interfaces compose literate documents that provide the ability to share
 
 # About the presentation:
 
+* It is an experiment in giving a presentation with live compute.
 * This presentation is written in notebooks.
 * The presentation in given in [__JupyterLab__](https://jupyterlab.readthedocs.io).
 * All of the notebook can be read on [__nbviewer__](http://nbviewer.jupyter.org/github/tonyfast/gvu/blob/master/readme.ipynb) or [__github__](https://github.com/tonyfast/gvu).
