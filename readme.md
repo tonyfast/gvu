@@ -1,7 +1,7 @@
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/gitterHQ/gitter)[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tonyfast/gvu/master)[__nbviewer__](http://nbviewer.jupyter.org/github/tonyfast/gvu/blob/master/readme.ipynb)[__github__](https://github.com/tonyfast/gvu)
 
-#  [https://www.cc.gatech.edu/hg/item/613206](Project Jupyter and the rise of literate computing)
+#  [Project Jupyter and the rise of literate computing](https://www.cc.gatech.edu/hg/item/613206)
 
 * By: Tony Fast [@docfast](https://twitter.com/DocFast)
 * Thursday, November 1, 2018
@@ -42,3 +42,7 @@ Notebook interfaces compose literate documents that provide the ability to share
     if __name__ == '__main__':
         !jupyter nbconvert --to markdown readme.ipynb
 ```
+
+    [NbConvertApp] Converting notebook readme.ipynb to markdown
+    [NbConvertApp] Writing 3392 bytes to readme.md
+    
