@@ -1,5 +1,5 @@
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/gitterHQ/gitter)[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tonyfast/gvu/master)[__nbviewer__](http://nbviewer.jupyter.org/github/tonyfast/gvu/blob/master/readme.ipynb)[__github__](https://github.com/tonyfast/gvu)
+[__Gitter__](https://gitter.im/gvu-2018-11/Lobby?source=orgpage)[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tonyfast/gvu/master)[__nbviewer__](http://nbviewer.jupyter.org/github/tonyfast/gvu/blob/master/readme.ipynb)[__github__](https://github.com/tonyfast/gvu)
 
 #  [Project Jupyter and the rise of literate computing](https://www.cc.gatech.edu/hg/item/613206)
 
@@ -38,6 +38,8 @@ Notebook interfaces compose literate documents that provide the ability to share
 * All of the notebook can be read on [__nbviewer__](http://nbviewer.jupyter.org/github/tonyfast/gvu/blob/master/readme.ipynb) or [__github__](https://github.com/tonyfast/gvu).
 * You can run these notebooks on [__MyBinder__](https://mybinder.org) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tonyfast/gvu/master)
 * Please feel free if you have an questions about the implementation of the presentation.  The  notebooks in this project can be viewed on nbviewer and binder.
+
+# Big Picture Question: _How many IFrames do I use?_
 
 
 ```python
