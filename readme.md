@@ -21,7 +21,7 @@ Notebook interfaces compose literate documents that provide the ability to share
 
 # Today we are going to talk about:
 
-* Project Jupyter.
+* I'm going to fanboy out about Project Jupyter.
 * Adapting to open source software.
 * Computational essays for people and computers.
 * Sharing notebooks.
@@ -42,7 +42,3 @@ Notebook interfaces compose literate documents that provide the ability to share
     if __name__ == '__main__':
         !jupyter nbconvert --to markdown readme.ipynb
 ```
-
-    [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 3392 bytes to readme.md
-    
