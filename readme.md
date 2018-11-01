@@ -15,6 +15,10 @@ This talk will review the history of Project Jupyter as scientific software born
 
 Notebook interfaces compose literate documents that provide the ability to share human and machine readable knowledge within organizations across diverse disciplines.  This talk will highlight recent case studies in Jupyter transforming classroom education, massive collaboration in physics, data-driven journalism, and the entire multimedia experience of learning.
 
+## [Section 1](src/0.md.ipynb)
+## [Section 2](src/2.md.ipynb)
+## [Section 3](src/3.md.ipynb)
+
 # Today we are going to talk about:
 
 * Project Jupyter.
