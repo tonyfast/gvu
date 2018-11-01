@@ -28,22 +28,3 @@
 ## About the presentation:
 
 This demonstration is given from live running notebooks.  Please feel free if you have an questions about the implementation of the presentation.  The  notebooks in this project can be viewed on nbviewer and binder.
-
-* https://en.wikipedia.org/wiki/Interactive_computing
-* http://literateprogramming.com/knuthweb.pdf
-* http://blog.fperez.org/2013/04/literate-computing-and-computational.html
-* https://qz.com/1417145/economics-nobel-laureate-paul-romer-is-a-python-programming-convert/
-* https://www.economist.com/news/2018/07/11/the-big-mac-index
-* https://github.com/fivethirtyeight/data
-* https://github.com/jstray/lede-algorithms
-* http://ledeprogram.com/
-* https://github.com/BuzzFeedNews
-
-* https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
-
-
-```python
-https://github.com/JuniperKernel/JuniperKernel
-https://github.com/QuantStack/xeus
-https://github.com/JuliaLang/IJulia.jl
-```
